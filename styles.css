@@ -1,0 +1,45 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 300px;
+}
+
+.atmosphere {
+    height: 50%;
+}
+
+.sphere {
+    height: 20%;
+}
+
+#exo {
+    background-color: hsl(210, 83%, 80%);
+}
+
+#thermo {
+    background-color: hsl(210, 87%, 82%);
+}
+
+#meso {
+    background-color: hsl(210, 88%, 87%);
+}
+
+#strato {
+    background-color: hsl(210, 82%, 89%);
+}
+
+#tropo {
+    background-color: hsl(210, 83%, 91%);
+}
+
+.ocean {
+    height: 50%;
+    text-shadow: .002em .002em hsl(210, 88%, 88%);
+    color: hsl(210, 51%, 44%);
+    background-color: dodgerblue;
+}
+
+#periscope {
+    position: relative;
+    bottom: .4em;
+}
